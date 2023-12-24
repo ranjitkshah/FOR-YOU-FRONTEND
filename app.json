@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ForYouFrontend",
+    "slug": "ForYouFrontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
